@@ -7,7 +7,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/tlaksono7/getinvite-sample.git
 
 # Go into the repository
-$ cd koreanname
+$ cd getinvite-sample
 
 # Install dependencies
 $ npm install
